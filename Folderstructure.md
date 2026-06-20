@@ -1,4 +1,4 @@
-Since you're aiming for a **commercial-quality product** rather than a prototype, I'd organize the repository so that it can grow over several years. The key principle is to keep the code modular so that inference, downloads, documents, and training can evolve independently.
+Since you're aiming for a **commercial-quality product** rather than a prototype, I'd organize the repository so that it can grow over several years. The key principle is to keep the code modular so that inference, downloads, documents, and training can evolve
 
 Here's the structure I'd recommend.
 

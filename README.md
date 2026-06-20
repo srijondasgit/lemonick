@@ -293,6 +293,11 @@ SetPriorityLow()
 
 ---
 
+## 9. Installer
+
+Native installer for Windows / Mac / Linux
+___
+
 # PHASE 1 USER FLOW
 
 ```text id="p1_flow"
@@ -502,3 +507,5 @@ If you want next step, I can:
 1. Design the **exact folder structure + Go backend skeleton**
 2. OR design the **React UI screens**
 3. OR start writing **Phase 1 code (boot + model manager first)**
+
+
